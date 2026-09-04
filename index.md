@@ -1,5 +1,5 @@
 ---
 layout: home
 ---
-# Welcome to my Jekyll site!
+# Hello, Travelers,
 This page is built natively with Jekyll and the Minima theme.
